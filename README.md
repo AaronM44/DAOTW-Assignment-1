@@ -1,6 +1,5 @@
 # DAOTW-Assignment-1
 
----
 
 ## Case Study
 You have been tasked by the emergency services of New York City to investigate the
